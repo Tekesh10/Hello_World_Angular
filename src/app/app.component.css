@@ -1,0 +1,10 @@
+div{
+    text-align: center;
+    font-size: x-large;
+    color:darkblue;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+}
